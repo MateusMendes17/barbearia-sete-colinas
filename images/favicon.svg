@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Barbearia Sete Colinas">
+  <title>Barbearia Sete Colinas</title>
+  <!-- Fundo carvão -->
+  <rect width="64" height="64" rx="9" fill="#1A1A1A"/>
+  <!-- Moldura dourada -->
+  <rect x="4.5" y="4.5" width="55" height="55" rx="6" fill="none" stroke="#B8924A" stroke-width="1.6"/>
+  <!-- Monograma "VII" (as sete colinas) -->
+  <text x="32" y="35" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="27"
+        font-style="italic" fill="#B8924A">VII</text>
+  <!-- Filete dourado -->
+  <path d="M18 41.5h28" stroke="#B8924A" stroke-width="1" opacity=".75"/>
+  <!-- Nome -->
+  <text x="32" y="51" text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif" font-size="6.4"
+        letter-spacing="1.6" fill="#F4EEE3">SETE COLINAS</text>
+</svg>
